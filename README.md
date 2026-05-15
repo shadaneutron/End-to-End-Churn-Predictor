@@ -62,4 +62,4 @@ Follow these steps to set up the project locally:
 - [ ] **Retraining Pipeline**: Implement automated model monitoring and retraining using MLflow.
 
 ---
-*Developed by [Your Name] for Portfolio Excellence.*
+Developed by Shada Khaled 
