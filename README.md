@@ -55,6 +55,9 @@ Follow these steps to set up the project locally:
 
 4. **Open the Dashboard**:
    Navigate to `http://127.0.0.1:8080` in your web browser.
+   <img width="2559" height="1217" alt="Screenshot 2026-05-15 034353" src="https://github.com/user-attachments/assets/fe58c816-4b38-486f-8b74-31e168961524" />
+
+
 
 ## 🔮 Future Work
 - [ ] **Dockerization**: Containerize the application for seamless deployment to AWS/GCP.
